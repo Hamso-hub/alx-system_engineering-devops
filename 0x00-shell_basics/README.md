@@ -1,4 +1,4 @@
-All about the shell commands and navigation
+All about the shell commands and navigation/n
 0-current_working_directory file prints absolute path name of current working directory
 1-listit script displays content of current directory
 2-bring_me_home changes user working directory to the users home directory
